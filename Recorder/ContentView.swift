@@ -8,14 +8,27 @@
 import SwiftUI
 
 struct ContentView: View {
+	
+	@StateObject private var manager: DataManager = DataManager()
+	
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+		TabView {
+			RecordView()
+				.tabItem {
+					Image(systemName: "mic")
+					Text("Recording")
+				}
+				.environmentObject(manager)
+				.environment(\.managedObjectContext, manager.container.viewContext)
+			
+			PlaybackView()
+				.tabItem {
+					Image(systemName: "list.bullet")
+					Text("Recordings")
+				}
+				.environmentObject(manager)
+				.environment(\.managedObjectContext, manager.container.viewContext)
+		}
     }
 }
 

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "45BDC201-D832-4659-8295-D081E43D3DC7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "773ABC4E-C87B-42D4-B8C6-1BC4CD87ACDF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recorder/RecordingsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "773ABC4E-C87B-42D4-B8C6-1BC4CD87ACDF - 8e8ddec3478fa724"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recorder.RecordingsView.body.getter : some"
+                  moduleName = "Recorder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pra8eek/Downloads/Recorder/Recorder/RecordingsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "773ABC4E-C87B-42D4-B8C6-1BC4CD87ACDF - 9e2eb148e0c7f8cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; SwiftUI.Button&lt;SwiftUI.Text&gt; in Recorder.RecordingsView.body.getter : some"
+                  moduleName = "Recorder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pra8eek/Downloads/Recorder/Recorder/RecordingsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BA1DBA5-4185-4690-B876-8A3C35D700AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recorder/PlaybackViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "playRecording(at:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0BA1DBA5-4185-4690-B876-8A3C35D700AE - 53fefce4f3120c3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recorder.PlaybackViewModel.playRecording(at: Swift.Int) -&gt; ()"
+                  moduleName = "Recorder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pra8eek/Downloads/Recorder/Recorder/PlaybackViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "2308">
+               </Location>
+               <Location
+                  uuid = "0BA1DBA5-4185-4690-B876-8A3C35D700AE - e8b67ea481edc23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recorder.PlaybackViewModel.playRecording(at: Swift.String) -&gt; ()"
+                  moduleName = "Recorder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pra8eek/Downloads/Recorder/Recorder/PlaybackViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1736">
+               </Location>
+               <Location
+                  uuid = "0BA1DBA5-4185-4690-B876-8A3C35D700AE - 45b9e23a1bcf475"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recorder.PlaybackViewModel.playRecording(at: Foundation.URL) -&gt; ()"
+                  moduleName = "Recorder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pra8eek/Downloads/Recorder/Recorder/PlaybackViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5053623B-BDB8-4E9E-9F8C-3C1FFE10E21C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recorder/PlaybackViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "playRecording(at:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5053623B-BDB8-4E9E-9F8C-3C1FFE10E21C - 53fefce4f3120da3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recorder.PlaybackViewModel.playRecording(at: Swift.Int) -&gt; ()"
+                  moduleName = "Recorder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pra8eek/Downloads/Recorder/Recorder/PlaybackViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "5053623B-BDB8-4E9E-9F8C-3C1FFE10E21C - e8b67ea481ede94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recorder.PlaybackViewModel.playRecording(at: Swift.String) -&gt; ()"
+                  moduleName = "Recorder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pra8eek/Downloads/Recorder/Recorder/PlaybackViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "5053623B-BDB8-4E9E-9F8C-3C1FFE10E21C - 45b9e23a1bcf75e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recorder.PlaybackViewModel.playRecording(at: Foundation.URL) -&gt; ()"
+                  moduleName = "Recorder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pra8eek/Downloads/Recorder/Recorder/PlaybackViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55EF7D6D-91D9-4226-8D6E-08126C6E085C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recorder/PlaybackViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "playRecording(at:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDC9CE9A-34ED-44E8-AB13-F09D08184857"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recorder/RecordViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "saveRecordings(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
